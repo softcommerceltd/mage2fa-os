@@ -1,5 +1,5 @@
 {
-    "name": "softcommerce/mage2fa-metapackage",
+    "name": "softcommerce/mage2fa-os",
     "description": "Metapackage for Magento - FreeAgent integration.",
     "type": "metapackage",
     "license": "EULA",
