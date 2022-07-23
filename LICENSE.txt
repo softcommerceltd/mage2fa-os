@@ -19,7 +19,7 @@
 * newer versions in the future.                                                 *
 *                                                                               *
 * @category  SoftCommerce                                                       *
-* @package   SoftCommerce\Mage2PlentyAc                                         *
+* @package   SoftCommerce\Mage2Fa                                               *
 * @copyright © 2022 Soft Commerce Ltd. All Rights Reserved.                     *
 * @link      https://softcommerce.com                                           *
 * @license   https://softcommerce.co.uk/pub/license/index.html                  *
